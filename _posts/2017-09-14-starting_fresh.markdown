@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "`Starting Fresh`"
-date:   2017-09-14 00:00:52 +0000
+date:   2017-09-13 20:00:53 -0400
 ---
 
 
